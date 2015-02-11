@@ -1,0 +1,637 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"attachemt_",
+				"attachment_img_sm"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "test-File.html",
+			"file_size": 14,
+			"file_write_time": 130677106016475250,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "this is a file"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: f",
+				"Snippet: f5-template-full"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"package controll ",
+				"Package Control: List Packages"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"<?php",
+				"Snippet: <?php $this->… ?>"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Snippet: ",
+				"Snippet: article-template"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Convert Case: Title Case"
+			],
+			[
+				"ruby on",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"erb",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"sy",
+				"Set Syntax: Python"
+			],
+			[
+				"has",
+				"Set Syntax: Haskell"
+			],
+			[
+				"aerl",
+				"Set Syntax: Erlang"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"hask",
+				"Set Syntax: Haskell"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/CFOLEY/Desktop/cfSnipps"
+	],
+	"file_history":
+	[
+		"/C/Users/CFOLEY/AppData/Roaming/Sublime Text 3/Packages/User/f5-shippets/f5-template-plain.sublime-snippet",
+		"/C/Users/CFOLEY/Desktop/foundation5/index.html",
+		"/C/Users/CFOLEY/Desktop/cfSnipps/f5-template-plain.sublime-snippet",
+		"/C/Users/CFOLEY/Desktop/cfSnipps/f5-template-full.sublime-snippet",
+		"/C/Users/CFOLEY/AppData/Roaming/Sublime Text 3/Packages/User/f5-shippets/f5-template-full.sublime-snippet",
+		"/C/Users/CFOLEY/Desktop/straplte/appendix.html",
+		"/C/Users/CFOLEY/Desktop/straplte/css/style.css",
+		"/C/Users/CFOLEY/Desktop/straplte/package-controller.html",
+		"/C/Users/CFOLEY/Desktop/straplte/using-packages.html",
+		"/C/Users/CFOLEY/Desktop/straplte/tour-and-settings.html",
+		"/C/Users/CFOLEY/Desktop/straplte/snippets.html",
+		"/C/Users/CFOLEY/Desktop/straplte/shortcuts.html",
+		"/C/Users/CFOLEY/Desktop/straplte/project-files.html",
+		"/C/Users/CFOLEY/Desktop/straplte/straplte.sublime-project",
+		"/C/Users/CFOLEY/Desktop/straplte/command-palette.html",
+		"/C/Users/CFOLEY/Desktop/straplte/connecting-to-git.html",
+		"/C/Users/CFOLEY/Desktop/straplte/final-thoughts.html",
+		"/C/Users/CFOLEY/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/CFOLEY/Desktop/straplte/index.html",
+		"/C/Users/CFOLEY/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/CFOLEY/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/CFOLEY/AppData/Roaming/Sublime Text 3/Packages/User/html/article-template.sublime-snippet",
+		"/C/Users/CFOLEY/Desktop/counter2.html",
+		"/C/Users/CFOLEY/Desktop/mushatts,html",
+		"/C/Users/CFOLEY/Desktop/form.html",
+		"/C/Users/CFOLEY/Desktop/clickchange.html",
+		"/C/Users/CFOLEY/Desktop/sponsoredad.html",
+		"/C/Users/CFOLEY/Desktop/new.liquid",
+		"/C/Users/CFOLEY/Desktop/scripts.js",
+		"/C/Users/CFOLEY/Desktop/9.html",
+		"/C/Users/CFOLEY/Desktop/live_bk.php",
+		"/C/Users/CFOLEY/Desktop/dec162014/hp.php",
+		"/C/Users/CFOLEY/Desktop/dec162014/template_header_pre_custom_left_right.php",
+		"/C/Users/CFOLEY/Desktop/template_blog.php",
+		"/C/Users/CFOLEY/Desktop/template_blog_loop.php",
+		"/C/Users/CFOLEY/Desktop/leadex_template_blog_loop.php",
+		"/C/Users/CFOLEY/Desktop/nai_formgenerator.php",
+		"/C/Users/CFOLEY/Desktop/ciarans-emails.php",
+		"/C/Users/CFOLEY/Desktop/template_blog_loop.asp",
+		"/C/Users/CFOLEY/Desktop/wp-login.php",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/CFOLEY/Desktop/e_consulting.cfm.html",
+		"/C/Users/CFOLEY/Desktop/third_party_thankyo2u.php",
+		"/C/Users/CFOLEY/Desktop/nai_1029.php",
+		"/C/Users/CFOLEY/Desktop/third_party_thankyou.php",
+		"/C/Users/CFOLEY/Desktop/network_member.php",
+		"/C/Users/CFOLEY/Desktop/results_works.php",
+		"/C/Users/CFOLEY/Desktop/nai_form_bu.php",
+		"/C/Users/CFOLEY/Desktop/scripts_bu.js",
+		"/C/Users/CFOLEY/Desktop/select_or_name_new_list.php",
+		"/C/Users/CFOLEY/Desktop/work_experience_bu.php",
+		"/C/Users/CFOLEY/Desktop/name.csv",
+		"/C/Users/CFOLEY/Desktop/event_detail_bk.php",
+		"/C/Users/CFOLEY/Desktop/original.php",
+		"/C/Users/CFOLEY/Desktop/search_member.php",
+		"/C/Users/CFOLEY/Desktop/fat-catz-package/files/home6.html",
+		"/C/Users/CFOLEY/Desktop/e_mbo.cfm.html",
+		"/C/Users/CFOLEY/Desktop/angular_json/stuff.json",
+		"/C/Users/CFOLEY/Desktop/angular_json/stuff.html",
+		"/C/Users/CFOLEY/Desktop/angular_json/jquery.min.js",
+		"/C/Users/CFOLEY/Desktop/kimono1.html",
+		"/C/Users/CFOLEY/Desktop/angular-worldcup2014-master/app/js/app.js",
+		"/C/Users/CFOLEY/Desktop/pull/js/controllers.js",
+		"/C/Users/CFOLEY/Desktop/pull/index.html",
+		"/C/Users/CFOLEY/Desktop/angular_json/script.js",
+		"/C/Users/CFOLEY/Desktop/kimonoData.json",
+		"/C/Users/CFOLEY/Desktop/category-sticky-post/class-category-sticky-post.php",
+		"/C/Users/CFOLEY/Desktop/angular_json/index.html",
+		"/C/Users/CFOLEY/Desktop/category-sticky-post/README.txt",
+		"/C/Users/CFOLEY/Desktop/angular_json/adults.json",
+		"/C/Users/CFOLEY/Desktop/angular_json/teens.json",
+		"/C/Users/CFOLEY/Desktop/custom_fbox.js",
+		"/C/Users/CFOLEY/Desktop/jquery.fancybox-media.js",
+		"/C/Users/CFOLEY/Desktop/__WP-BU/SEPT26/wp-content/themes/trades/inc/template/template_blog_loop.php",
+		"/C/Users/CFOLEY/Desktop/__angular/index.html",
+		"/C/Users/CFOLEY/Downloads/newrelic.yml",
+		"/C/Users/CFOLEY/Desktop/__angular/product-panels.html",
+		"/C/Users/CFOLEY/Desktop/__angular/product-title.html",
+		"/C/Users/CFOLEY/Desktop/__angular/js/app.js",
+		"/C/Users/CFOLEY/Desktop/__angular/app.js",
+		"/C/Users/CFOLEY/Desktop/__WP-BU/Sept11/jquery.fancybox-media.js",
+		"/C/Users/CFOLEY/Desktop/__WP-BU/Sept11/jquery.fancybox-media.css",
+		"/C/Users/CFOLEY/Desktop/__angular/js/angular.min.js",
+		"/C/Users/CFOLEY/Desktop/__WP-BU/Sept11/jquery.fancybox-thumbs.js",
+		"/C/Users/CFOLEY/Desktop/__WP-BU/Sept11/navdrop.html",
+		"/C/Users/CFOLEY/Desktop/__WP-BU/Sept11/override.css",
+		"/C/Users/CFOLEY/Desktop/dropdown2.html",
+		"/C/Users/CFOLEY/Desktop/__WP-BU/Sept11/events_feed_rss_writer.rss",
+		"/C/Users/CFOLEY/Desktop/template_header_pre_custom_left_right.php",
+		"/C/Users/CFOLEY/Desktop/dropdown.html",
+		"/C/Users/CFOLEY/Desktop/messageBU.php",
+		"/C/Users/CFOLEY/Desktop/resume_0808.php",
+		"/C/Users/CFOLEY/Desktop/resume_0408.php",
+		"/C/Users/CFOLEY/Desktop/form-styles.css",
+		"/C/Users/CFOLEY/Desktop/edit_experience_original.php",
+		"/C/Users/CFOLEY/Desktop/event_detail_fri.php",
+		"/C/Users/CFOLEY/Desktop/event_detail.php",
+		"/C/Users/CFOLEY/Desktop/bootstrap-master/.gitattributes",
+		"/C/Users/CFOLEY/Desktop/workingWP/Original/edit_profile_original.php",
+		"/C/Users/CFOLEY/Desktop/JuneScrape/onDemandsSanatized.txt",
+		"/C/Users/CFOLEY/Desktop/workingWP/Original/webinar_general.php",
+		"/C/Users/CFOLEY/Desktop/workingWP/Original/myVersion/webinar_featured.php",
+		"/C/Users/CFOLEY/Desktop/workingWP/Original/myVersion/regFormWebinars.php",
+		"/C/Users/CFOLEY/Desktop/TAB/index.html",
+		"/C/Users/CFOLEY/Desktop/workingWP/Original/webinar_featured.php",
+		"/C/Users/CFOLEY/Desktop/JuneScrape/WithEventsMasterJune2014.csv",
+		"/C/Users/CFOLEY/Desktop/Desktop/yy/insightsNew.rb",
+		"/C/Users/CFOLEY/Desktop/newScrape/urlList/social.html",
+		"/C/Users/CFOLEY/Desktop/emailtest.html",
+		"/C/wamp/www/email/email.php",
+		"/C/wamp/www/email/style.css",
+		"/C/wamp/www/email/index.php",
+		"/C/wamp/www/email/email1.php",
+		"/C/wamp/www/email/js/email2.php",
+		"/C/wamp/www/email/js/email.js",
+		"/C/wamp/www/email/contact_me.php",
+		"/C/wamp/www/email/email5.php",
+		"/C/wamp/www/email/email6.html",
+		"/C/Users/CFOLEY/Desktop/style.css",
+		"/C/Users/CFOLEY/Desktop/aq_resizer_mediaserver.php",
+		"/C/Users/CFOLEY/Desktop/Desktop/yy/rubyarray.rb",
+		"/C/Users/CFOLEY/Desktop/Desktop/yy/looper.rb",
+		"/C/Users/CFOLEY/Desktop/Desktop/yy/insights.rb",
+		"/C/Users/CFOLEY/Desktop/test.php",
+		"/C/Users/CFOLEY/Desktop/bootstrap-master/dist/index.html",
+		"/C/Users/CFOLEY/Desktop/bootstrap-master/dist/css/custom.css",
+		"/C/Users/CFOLEY/Desktop/password.html",
+		"/C/Users/CFOLEY/Desktop/accord.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\CFOLEY\\Desktop\\inc",
+			"C:\\Users\\CFOLEY\\Desktop\\templates",
+			"C:\\wamp\\www\\wp-content"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",\n .",
+			"<a href",
+			">\n",
+			"</h5></li>",
+			"<h5>",
+			"7.",
+			"Super User",
+			"6.",
+			"Extending SublimeText",
+			"5.",
+			"Shotrcuts And Snippets",
+			"4.",
+			"Diving A Little Deeper",
+			"3.",
+			"3",
+			"Editing",
+			"Quick Tour",
+			"strong",
+			"my",
+			"</h1></div>",
+			"<div class=\"panel-heading\">",
+			"class=\"panel panel-success\" ",
+			"articldiv",
+			"article",
+			"</h1>",
+			"<h1>",
+			"ss\">",
+			"<section",
+			"</section>",
+			"#1",
+			"#",
+			"<p>\n				",
+			"\n			</p>",
+			"\n			",
+			"//////////////////",
+			"//////////////////   ",
+			"attr",
+			"=\"\">",
+			"2002",
+			"wp-admin",
+			"redirect_to",
+			"$redirect_to",
+			"redirect",
+			"login",
+			"wordpress",
+			"</div>",
+			"vspace=\"5\"",
+			"</li>",
+			"<li>",
+			"80",
+			".js",
+			"<style",
+			"http://www.mushatts.com/eczema-cream.html",
+			"psoriwash",
+			"collections/frontpage/",
+			"Select ",
+			"\n",
+			"</a>",
+			"<a href=\"\">",
+			"â€",
+			"â€œ",
+			"â€™",
+			"&nbsp;",
+			",",
+			"8 a",
+			"9 a",
+			".menu-item",
+			"9",
+			"strategy-and-execution",
+			"leadership",
+			"category-leadership",
+			" ",
+			".menu",
+			"7915",
+			"7919",
+			"7920",
+			"7918",
+			"7917",
+			"7916",
+			"7912",
+			"7911",
+			"7910",
+			"7914",
+			"7913",
+			"7909",
+			"7908",
+			"7907",
+			"7906",
+			"7903",
+			" style=\"opacity: 1; top: 0px; right: 0px; bottom: 0px; left: 0px;\">",
+			"<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category ",
+			"<li class=\"menu-item menu-item-type-post_type menu-item-object-page ",
+			"dev13",
+			".page-id-",
+			" .page-",
+			".page-",
+			".category-leadership #secondary_menu ",
+			"-",
+			",",
+			"block",
+			"none",
+			"none;",
+			".page",
+			"4674",
+			"4672",
+			"4665",
+			"4663",
+			" .menu",
+			" .",
+			".menu",
+			".",
+			"menu",
+			"#",
+			"\n#",
+			"#",
+			"#menu",
+			".page-id-",
+			"#secondary_",
+			".",
+			"{display:none!important;}",
+			"hidden",
+			"category-",
+			"#",
+			"menu",
+			"</a></li>",
+			"<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category ",
+			"</a></li>",
+			" style=\"opacity: 1; top: 0px; right: 0px; bottom: 0px; left: 0px;\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test-File.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "this is a file",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "snipps.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sni",
+				"snippets.html"
+			],
+			[
+				"inde",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

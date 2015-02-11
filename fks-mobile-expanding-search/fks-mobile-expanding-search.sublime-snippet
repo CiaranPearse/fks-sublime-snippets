@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+			<!-- THIS REQUIRES ADDITIONAL JAVASCRIPT. ADD USING "fls-mobile-expanding-search:js" IN YOUR JAVASCRIPT FILE -->
+			<div class="tertiary-nav">
+			    <div class="row top-bar">
+			      <div class="small-12  columns">
+			        <ul class="inline-list right">
+			          <li><a href="#" class="menu"> <i class="fi-list icon"></i> <span> Menu</span></a> </li>
+			          <li><a href="#" class="search-icon "><i class="fi-magnifying-glass large icon"></i></a> </li>
+			         
+			          <li class="search-field">
+			            <form>
+			              <div class="row collapse">
+			                <div class="small-12 columns">
+			                  <input type="text" class="dream-search" placeholder="Search all things">
+			                </div>
+			              </div>
+			            </form>
+			          </li>
+			        </ul>
+			      </div>
+			    </div>
+			  </div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fks-mobile-expanding-search</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,89 @@
+<snippet>
+	<content><![CDATA[
+			<!--
+				//////////////////////
+				You will need to make sure to download the icon font and link the corresponding stylesheet into your HTML
+				http://zurb.com/playground/foundation-icon-fonts-3
+				/////////////////////
+				-->
+
+
+				  <div class="row file-list">
+				    <div class="small-6 columns">
+				      <ul>
+				        <li><i class="fi-folder"></i>&nbsp;&nbsp;Folder</li>
+				        <hr class="folder">
+				        <li><i class="fi-folder"></i>&nbsp;&nbsp;Folder
+				          <ul>
+				            <li><i class="fi-folder"></i>&nbsp;&nbsp;Subfolder</li>
+				              <ul>
+				                <li><i class="fi-page"></i>&nbsp;&nbsp;File</li>
+				                <li><i class="fi-page"></i>&nbsp;&nbsp;File</li>
+				              </ul>
+				            <hr class="subfolder">
+				            <li><i class="fi-page"></i>&nbsp;&nbsp;File</li>
+				          </ul>
+				        </li>
+				        <hr class="folder">
+				        <li><i class="fi-folder"></i>&nbsp;&nbsp;Folder
+				          <ul>
+				            <li><i class="fi-page"></i>&nbsp;&nbsp;File</li>
+				            <li><i class="fi-page"></i>&nbsp;&nbsp;File</li>
+				            <li><i class="fi-page"></i>&nbsp;&nbsp;File</li>
+				          </ul>
+				        </li>
+				        <hr class="folder">
+				        <li><i class="fi-page"></i>&nbsp;&nbsp;File</li>
+				        <li><i class="fi-page"></i>&nbsp;&nbsp;File</li>
+				        <li><i class="fi-page"></i>&nbsp;&nbsp;File</li>
+				      </ul>
+				    </div>
+				    <div class="small-6 columns">
+				      <ul>
+				        <li><i class="fi-torso"></i>&nbsp;&nbsp;Single</li>
+				          <hr class="folder">
+				          <ul>
+				            <li><i class="fi-torso-business"></i>&nbsp;&nbsp;Business
+				              <ul>
+				                <li><i class="fi-dollar"></i>&nbsp;&nbsp;Dollars</li>
+				                <li><i class="fi-euro"></i>&nbsp;&nbsp;Euros</li>
+				                <li><i class="fi-yen"></i>&nbsp;&nbsp;Yen</li>
+				              </ul>
+				            </li>
+				          </ul>
+				        <hr class="folder">
+				        <li><i class="fi-torsos"></i>&nbsp;&nbsp;Couple</li>
+				          <ul>
+				            <li><i class="fi-laptop"></i>&nbsp;&nbsp;OS
+				              <ul>
+				                <li><i class="fi-social-windows"></i>&nbsp;&nbsp;Windows</li>
+				                <li><i class="fi-social-apple"></i>&nbsp;&nbsp;Apple</li>
+				              </ul>
+				            </li>
+				            <hr class="subfolder">
+				            <li><i class="fi-megaphone"></i>&nbsp;&nbsp;Social Networks
+				              <ul>
+				                <li><i class="fi-social-twitter"></i>&nbsp;&nbsp;Twitter</li>
+				                <li><i class="fi-social-tumblr"></i>&nbsp;&nbsp;Tumblr</li>
+				                <li><i class="fi-social-facebook"></i>&nbsp;&nbsp;Facebook</li>
+				              </ul>
+				            </li>
+				          </ul>
+				        <hr class="folder">
+				        <li><i class="fi-torsos-all"></i>&nbsp;&nbsp;Group
+				          <ul>
+				            <li><i class="fi-graph-trend"></i>&nbsp;&nbsp;Line Chart</li>
+				            <li><i class="fi-graph-bar"></i>&nbsp;&nbsp;Bar Graph</li>
+				            <li><i class="fi-graph-pie"></i>&nbsp;&nbsp;Pie Chart</li>
+				          </ul>
+				        </li>
+				        <hr class="folder">
+				      </ul>
+				    </div>
+				  </div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fks-icon-list</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

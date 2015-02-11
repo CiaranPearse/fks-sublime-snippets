@@ -1,0 +1,51 @@
+<snippet>
+	<content><![CDATA[
+			<div class="row">
+			  <div class="large-6 columns small-centered">
+			    <div class="exp-timeline">
+			      <div class="container">
+			        <ul class="items">
+			          <li>
+			            <h5>One</h5>
+			            <div class="active" style="width: 30%">
+			              <div class="finish"></div>
+			            </div>
+			            <div class="inactive" style="width: 70%"></div>
+			          </li>
+			          <li>
+			            <h5>Two</h5>
+			            <div class="inactive" style="width: 30%"></div>
+			            <div class="active" style="width: 70%">
+			              <div class="start"></div>
+			            </div>
+			          </li>
+			          <li>
+			            <h5>Three</h5>
+			            <div class="inactive" style="width: 90%"></div>
+			            <div class="active" style="width: 10%">
+			              <div class="start"></div>
+			            </div>
+			          </li>
+			        </ul>
+			      </div>
+			      <ul class="inline-list dates">
+			        <li>2014</li>
+			        <li>2013</li>
+			        <li>2012</li>
+			        <li>2011</li>
+			        <li>2010</li>
+			      </ul>  
+			    </div>
+			    <div class="wrapper">
+			      <label>Sign Up Now</label>
+			      <a href="#" class="inside">Plan 1</a>
+			      <a href="#" class="inside">Plan 2</a>
+			    </div>
+			  </div>
+			</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fks-timeline</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
